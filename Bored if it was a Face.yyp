@@ -3,6 +3,7 @@
   "resourceVersion": "1.6",
   "name": "Bored if it was a Face",
   "resources": [
+    {"id":{"name":"Sprite1","path":"sprites/Sprite1/Sprite1.yy",},"order":16,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
